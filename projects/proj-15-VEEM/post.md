@@ -1,6 +1,7 @@
 ---
 title: 'Light show'
 ---
+#openFrameworks #Arduino
 Luminic installation for a music video. Check out [Victoria en el Mar](http://www.victoriaenelmar.com/)!
 ![Light show]({{ site.url }}/projects/proj-15-VEEM/VEEM-1.jpg)
 ![Light show]({{ site.url }}/projects/proj-15-VEEM/VEEM-2.jpg)
