@@ -8,7 +8,7 @@ header
   background-color: $headerBackgroundColor
   .logo
     float: left
-    margin: 25px 30px 15px 30px
+    margin: 10px 30px
     white-space: nowrap
     overflow: hidden
     font:
@@ -19,6 +19,10 @@ header
       color: rgba(0,0,0,1)
       &:hover
         color: $accent-color
+    .sublogo
+      font:
+        size: 16px
+        weight: 700
   nav
     margin: 25px 30px 0 0
     float: right
@@ -29,7 +33,7 @@ header
       margin-left: 20px
       color: rgba(0,0,0,1)
       font:
-        size: 24px
+        size: 20px
         weight: 700
       &:hover
         color: $accent-color
@@ -38,6 +42,8 @@ header
   header
     .logo
       margin: 10px 30px 0px 10px
+      .sublogo
+        display: none
     nav
       margin: 10px
       a

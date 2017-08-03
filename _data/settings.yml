@@ -2,7 +2,8 @@
 # General Site Settings
 
 title: Javier Velazquez Traut
-description: Personal portfolio
+subtitle: Portfolio
+description: Javier Velazquez Traut Personal portfolio
 email: j.velazqueztraut@gmail.com
 
 menu:
@@ -17,9 +18,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Javier Velazquez Traut Personal portfolio'
-  rel-author: 'http://j.velazqueztraut.com'
-  rel-publisher: 'http://j.velazqueztraut.com'
+  description: Javier Velazquez Traut Personal portfolio
+  rel-author: http://j.velazqueztraut.com
+  rel-publisher: http://j.velazqueztraut.com
 
 #-------------------------------
 # Google Analytics Section

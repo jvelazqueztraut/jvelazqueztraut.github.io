@@ -1,6 +1,11 @@
 <header>
   <div class="logo">
-    <a href="{{ site.github.url }}/">{{ site.data.settings.title }}</a>
+    <a href="{{ site.github.url }}/">
+    	{{ site.data.settings.title }}
+    	<div class="sublogo">
+    		{{ site.data.settings.subtitle }}
+  		</div>
+    </a>
   </div>
   <nav>
     {% for item in site.data.settings.menu %}
