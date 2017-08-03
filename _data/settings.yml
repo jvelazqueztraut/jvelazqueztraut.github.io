@@ -3,7 +3,7 @@
 
 title: Javier Velazquez Traut
 subtitle: Portfolio
-description: Javier Velazquez Traut Personal portfolio
+description: Javier Velazquez Traut Portfolio
 email: j.velazqueztraut@gmail.com
 
 menu:
@@ -18,9 +18,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: Javier Velazquez Traut Personal portfolio
-  rel-author: http://j.velazqueztraut.com
-  rel-publisher: http://j.velazqueztraut.com
+  description: 'Javier Velazquez Traut Portfolio'
+  rel-author: 'http://j.velazqueztraut.com'
+  rel-publisher: 'http://j.velazqueztraut.com'
 
 #-------------------------------
 # Google Analytics Section
@@ -35,15 +35,13 @@ seo:
 #-------------------------------
 # About Section
 
-about: >
-  # I am a Creative Technologist.
-
-  This is a personal portfolio with some of the projects I've done.
-
-contact: >
+about: |
+  # I am a Creative Technologist from Buenos Aires, Argentina.
+  I hold a degree in Electronic Engineer from ITBA. I have founded two companies which basically portray my two biggest passions; [+OTROS](http://masotros.com/) which is an studio that creates technological experiences for brands and [Cran.io](http://cran.io/) which is a software and hardware development boutique for startups.
+  This is my personal portfolio, thanks for stopping by!
+contact: |
   #  Contact
-
-  You may contact me [through my email](mailto:j.velazqueztraut@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40nigrou) if you have any questions or would like to bring up any issues.
+  You may [email me](mailto:j.velazqueztraut@gmail.com) or you can connect with me on [LinkedIn](https://www.linkedin.com/in/jvelazqueztraut) or maybe you want to text me through [messenger](https://www.facebook.com/jvelazqueztraut) or [instagram](https://www.instagram.com/nigrou) or you might even want to [tweet at me](https://twitter.com/intent/tweet?text=%40nigrou)! Just don't do them altogether, please.
 
 #-------------------------------
 # Work Section
@@ -58,11 +56,11 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'linkedin', link: 'jvelazqueztraut'}
-- {icon: 'github', link: 'jvelazqueztraut'}
-- {icon: 'facebook', link: 'jvelazqueztraut'}
-- {icon: 'instagram', link: 'nigrou'}
-- {icon: 'twitter', link: 'nigrou'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/jvelazqueztraut'}
+- {icon: 'github', link: 'https://github.com/jvelazqueztraut'}
+- {icon: 'facebook', link: 'https://www.facebook.com/jvelazqueztraut'}
+- {icon: 'instagram', link: 'https://www.instagram.com/nigrou'}
+- {icon: 'twitter', link: 'https://twitter.com/nigrou'}
 - {icon: 'envelope', link: 'mailto:j.velazqueztraut@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
