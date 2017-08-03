@@ -1,8 +1,16 @@
 header
-  height: 90px
+  position: fixed
+  top: 0px
+  left: 0px
+  height: auto
+  width: 100%
+  z-index: 20
+  background-color: $headerBackgroundColor
   .logo
     float: left
-    margin: 30px
+    margin: 25px 30px 15px 30px
+    white-space: nowrap
+    overflow: hidden
     font:
       size: 24px
       weight: 700
@@ -12,8 +20,10 @@ header
       &:hover
         color: $accent-color
   nav
+    margin: 25px 30px 0 0
     float: right
-    margin: 30px 30px 0 0
+    white-space: nowrap
+    overflow: hidden
     a
       display: inline-block
       margin-left: 20px
@@ -27,13 +37,11 @@ header
 @media (max-width: 768px)
   header
     .logo
-      margin: 10px 30px 0px 0px
+      margin: 10px 30px 0px 10px
     nav
-      margin: 0px
-      margin-top: 18px
-      float: left
+      margin: 10px
       a
         margin-left: 0px
-        margin-right: 20px
+        margin-right: 10px
         font:
           size: 16px
