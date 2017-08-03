@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Portfolio Jekyll Theme
-description: Powered by Jekyll and GitHub Pages
-email: l.nguyen.paul@gmail.com
+title: Javier Velazquez Traut
+description: Personal portfolio
+email: j.velazqueztraut@gmail.com
 
 menu:
 - {name: 'Projects', url: ''}
@@ -17,9 +17,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  description: 'Javier Velazquez Traut Personal portfolio'
+  rel-author: 'http://j.velazqueztraut.com'
+  rel-publisher: 'http://j.velazqueztraut.com'
 
 #-------------------------------
 # Google Analytics Section
@@ -58,10 +58,11 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'linkedin', link: 'jvelazqueztraut'}
+- {icon: 'github', link: 'jvelazqueztraut'}
+- {icon: 'facebook', link: 'jvelazqueztraut'}
+- {icon: 'instagram', link: 'nigrou'}
+- {icon: 'twitter', link: 'nigrou'}
+- {icon: 'envelope', link: 'mailto:j.velazqueztraut@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
