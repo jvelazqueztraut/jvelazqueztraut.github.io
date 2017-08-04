@@ -1,7 +1,7 @@
 .thumb-container
   max-width: 750px
+  padding-top: 30px
   margin: 0px auto 0px
-  padding: 30px
   +clearfix
   .thumb-unit
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
@@ -42,29 +42,3 @@
     .thumb-unit
       width: 80vw
       height: 40vw
-
-.work-container
-  max-width: 600px
-  padding-top: 30px
-  margin: 0px auto 30px
-  position: relative
-  display: none
-  h4
-    color: $accent-color
-    line-height: 1.2
-    margin: 10px 0
-    font:
-      weight: 300
-      size: 24px
-  img
-    max-width: 100%
-  a
-    &:hover img
-      opacity: 0.5
-  .work-return
-    cursor: pointer
-    font:
-      size: 24px
-    +position(absolute, 35px null null -35px)
-  .loading
-    text-align: center

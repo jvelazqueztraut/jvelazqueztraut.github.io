@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Light show'
 ---
 #openFrameworks #Arduino

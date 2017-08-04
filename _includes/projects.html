@@ -1,16 +1,13 @@
 <section>
   <div class="thumb-container">
     {% for project in site.data.settings.projects %}
-      <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/projects/{{ project.folder }}/thumb.jpg)">
-        <div class="thumb-overlay">
-          <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+      <a href="{{ site.github.url }}/projects/{{ project.folder }}/post.html">
+        <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/projects/{{ project.folder }}/thumb.jpg)">
+          <div class="thumb-overlay">
+            <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+          </div>
         </div>
-      </div>
+      </a>
     {% endfor %}
-  </div>
-  <div class="work-container">
-    <div class="work-return"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-    <h4 class="project-title"></h4>
-    <div class="project-load"></div>
   </div>
 </section>

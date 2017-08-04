@@ -1,6 +1,6 @@
 .post-container
   max-width: 600px
-  padding-top: 30px
+  padding: 30px
   margin: 0px auto 30px
   h4
     color: $accent-color
@@ -11,3 +11,14 @@
       size: 24px
   img
     max-width: 100%
+  a
+    &:hover img
+      opacity: 0.5
+  .post-return
+    cursor: pointer
+    font:
+      size: 24px
+    margin: -20px 0
+    +position(relative, 20px null null -40px)
+  .loading
+    text-align: center
