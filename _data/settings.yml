@@ -18,7 +18,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Javier Velazquez Traut Portfolio'
+  description: 'Javier Velazquez Traut Portfolio Creative Technologist Electronic Engineer Cran.io Cranio +Otros Masotros openFrameworks'
   rel-author: 'http://j.velazqueztraut.com'
   rel-publisher: 'http://j.velazqueztraut.com'
 
@@ -30,7 +30,7 @@ seo:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-#google-analytics-ua: UA-XXXXXX-X
+google-analytics-ua: UA-104060517-1
 
 #-------------------------------
 # About Section
