@@ -17,22 +17,31 @@
       repeat: no-repeat
       size: cover
     .thumb-overlay
+      display: block
       +position(absolute, 100% 0px null 0px)
       height: 100%
       background: fade-out(#333, 0.5)
       text-align: center
+      vertical-align: center
       //+transition
       +display(flex)
       +align-items(center)
-      +justify-content(space-around)
-      strong
+      +justify-content(center)
+      .thumb-date
         display: block
-        padding: 20px
+        color: white
+        font:
+          size: 18px
+          weight: 300
+      .thumb-title
+        display: block
+        padding: 10px
         color: white
         line-height: 1.2
+        color: white
         font:
           size: 24px
-          weight: 300
+          weight: 700
     &:hover .thumb-overlay
       +position(absolute, 0px 0px null 0px)
 

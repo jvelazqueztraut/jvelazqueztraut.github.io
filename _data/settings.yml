@@ -36,10 +36,10 @@ google-analytics-ua: 'UA-104060517-1'
 # Work Section
 
 projects:
-- {name: 'Videowall', folder: 'proj-16-Videowall'}
-- {name: 'Ligth show', folder: 'proj-15-VEEM'}
-- {name: 'Museo Malvinas', folder: 'proj-5-Malvinas'}
-- {name: 'Orquesta Digital', folder: 'proj-1-Orquesta'}
+- {name: 'Videowall', folder: 'proj-16-Videowall', date: 'May 2017'}
+- {name: 'Ligth show', folder: 'proj-15-VEEM', date: 'March 2017'}
+- {name: 'Museo Malvinas', folder: 'proj-5-Malvinas', date: 'June 2014'}
+- {name: 'Orquesta Digital', folder: 'proj-1-Orquesta', date: 'July 2012'}
 
 #-------------------------------
 # Contact Section

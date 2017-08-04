@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Digital Orchestra'
+date: 'July 2012'
+tag: '#openFrameworks #MaxMSP'
 ---
-#Processing #MaxMSP
 The project consisted of 12 netbooks synchronized to form a Digital Orchestra. Here are some renders of the setup:
 ![Orquesta Digital render]({{ site.url }}/projects/proj-1-Orquesta/Render-1.jpg)
 ![Orquesta Digital render]({{ site.url }}/projects/proj-1-Orquesta/Render-2.jpg)

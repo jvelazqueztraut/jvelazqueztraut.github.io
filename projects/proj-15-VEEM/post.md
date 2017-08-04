@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Light show'
+date: 'March 2017'
+tag: '#openFrameworks #Arduino'
 ---
 #openFrameworks #Arduino
 Luminic installation for a music video. Check out [Victoria en el Mar](http://www.victoriaenelmar.com/)!

@@ -4,8 +4,19 @@ layout: default
 
 <section>
   <div class="post-container">
+    <span class="post-tag">{{ page.tag }}</span>
   	<div class="post-return"><i class="fa fa-arrow-left" onclick="history.back()"></i></div>
     <h4 class="post-title">{{ page.title }}</h4>
+    <span class="post-date">
+      {% assign d = page.date | date: "%-d"  %}
+      {{ page.date | date: "%B" }}
+      {% case d %}
+        {% when '1' or '21' or '31' %}{{ d }}st
+        {% when '2' or '22' %}{{ d }}nd
+        {% when '3' or '23' %}{{ d }}rd
+        {% else %}{{ d }}th{% endcase %},
+      {{ page.date | date: "%Y" }}
+    </span>
     <div class="post-load">{{ content }}</div>
   </div>
 </section>
