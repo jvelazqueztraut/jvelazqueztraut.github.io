@@ -30,13 +30,13 @@ seo:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics-ua: UA-104060517-1
+google-analytics-ua: 'UA-104060517-1'
 
 #-------------------------------
 # About Section
 
 about: |
-  # I am a Creative Technologist from Buenos Aires, Argentina.
+  # A Creative Technologist from Buenos Aires, Argentina.
   I hold a degree in Electronic Engineer from ITBA. I have founded two companies which basically portray my two biggest passions; [+OTROS](http://masotros.com/) which is an studio that creates technological experiences for brands and [Cran.io](http://cran.io/) which is a software and hardware development boutique for startups.
   This is my personal portfolio, thanks for stopping by!
 contact: |
