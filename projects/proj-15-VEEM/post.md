@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Light show'
+title: 'Super LED Tubes'
 date: 'March 2017'
 tag: '#openFrameworks #Arduino'
 ---
