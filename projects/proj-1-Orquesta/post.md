@@ -13,5 +13,5 @@ It was installed in Tecnópolis 2012. More info on this [link](https://www.educ.
 Check out one of the workshoppers talking about the installation:
 {% youtube 6V_m5kbIF9o %}
 Project co-developed by [+OTROS](http://masotros.com/) and [Estado Lateral](http://estadolateral.net/):
-{% include vimeo.html id=61363105 %}
+{% vimeo 61363105 %}
 
