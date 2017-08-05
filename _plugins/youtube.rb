@@ -8,8 +8,8 @@ class YouTube < Liquid::Tag
       @id = $1
 
       if $2.nil? then
-          @width = 521
-          @height = 288
+          @width = 600
+          @height = 330
       else
           @width = $2.to_i
           @height = $3.to_i
