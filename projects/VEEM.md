@@ -5,9 +5,9 @@ date: 'March 2017'
 tag: '#openFrameworks #Arduino'
 ---
 Luminic installation for a music video. Check out [Victoria en el Mar](http://www.victoriaenelmar.com/) and here is the video:
-{% include youtube.html id=fvKzBEd7Ano %}
+<iframe width="100%" height="330" src="https://www.youtube.com/embed/fvKzBEd7Ano" frameborder="0" allowfullscreen></iframe>
 There is also a 360 version! Check it out:
-{% include youtube.html id=J7AQBa270bY %}
+<iframe width="100%" height="330" src="https://www.youtube.com/embed/J7AQBa270bY" frameborder="0" allowfullscreen></iframe>
 
 Here are some pics of the making of:
 ![Light show]({{ site.url }}/projects/VEEM/VEEM-1.jpg)
