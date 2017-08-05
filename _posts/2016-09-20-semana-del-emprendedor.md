@@ -5,7 +5,6 @@ tag: '#Speaker'
 ---
 
 I was invited to give a talk about hardware and software development hosted at [CADIEEL](http://www.cadieel.org.ar/).
-
 Here are some photos of the event:
 ![Semana del emprendedor]({{ site.url }}/assets/img/blog/semana-del-emprendedor-1.jpg)
 ![Semana del emprendedor]({{ site.url }}/assets/img/blog/semana-del-emprendedor-2.jpg)

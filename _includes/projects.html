@@ -1,11 +1,11 @@
 <section>
   <div class="thumb-container">
     {% for project in site.data.settings.projects %}
-      <a href="{{ site.github.url }}/projects/{{ project.folder }}/post.html">
-        <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/projects/{{ project.folder }}/thumb.jpg)">
+      <a href="{{ site.github.url }}/projects/{{ project.name }}.html">
+        <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.name }}" style="background-image: url({{ site.github.url }}/projects/{{ project.name }}/thumb.jpg)">
           <div class="thumb-overlay">
             <span class="thumb-date">{{ project.date }}</span>
-            <span class="thumb-title">{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></span>
+            <span class="thumb-title">{{ project.title }} <i class="fa fa-arrow-right" aria-hidden="true"></i></span>
           </div>
         </div>
       </a>

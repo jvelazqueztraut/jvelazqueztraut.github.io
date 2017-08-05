@@ -36,12 +36,13 @@ google-analytics-ua: 'UA-104060517-1'
 # Work Section
 
 projects:
-- {name: 'Videowall', folder: 'proj-16-Videowall', date: 'May 2017'}
-- {name: 'Super LED Tubes', folder: 'proj-15-VEEM', date: 'March 2017'}
-- {name: 'Autocalibration System', folder: 'proj-4-Autocalibration', date: 'September 2014'}
-- {name: 'Museo Malvinas', folder: 'proj-5-Malvinas', date: 'June 2014'}
-- {name: 'Art Drums', folder: 'proj-3-Bateria', date: 'May 2014'}
-- {name: 'Orquesta Digital', folder: 'proj-1-Orquesta', date: 'July 2012'}
+- {title: 'Videowall', name: 'videowall-A3', date: 'May 2017'}
+- {title: 'Super LED Tubes', name: 'VEEM', date: 'March 2017'}
+- {title: 'Autocalibration System', name: 'autocalibration', date: 'Sept 2014'}
+- {title: 'Museo Malvinas', name: 'malvinas', date: 'June 2014'}
+- {title: 'Art Drums', name: 'art-drums', date: 'May 2014'}
+- {title: 'Digital Orchestra', name: 'orquesta-digital', date: 'July 2012'}
+- {title: 'Live Kinect Visuals', name: 'fuga', date: 'May 2012'}
 
 #-------------------------------
 # Contact Section
