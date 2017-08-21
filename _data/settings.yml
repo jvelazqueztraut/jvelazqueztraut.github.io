@@ -38,6 +38,7 @@ google-analytics-ua: 'UA-104060517-1'
 projects:
 - {title: 'Videowall', name: 'videowall-A3', date: 'May 2017'}
 - {title: 'Super LED Tubes', name: 'VEEM', date: 'March 2017'}
+- {title: 'Betrack IoT', name: 'betrack', date: 'Dec 2016'}
 - {title: 'Interactive Semi-truck', name: 'trailer', date: 'Sept 2014'}
 - {title: 'Autocalibration System', name: 'autocalibration', date: 'Aug 2014'}
 - {title: 'Museo Malvinas', name: 'malvinas', date: 'June 2014'}
