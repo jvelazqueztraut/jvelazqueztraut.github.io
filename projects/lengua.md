@@ -10,4 +10,3 @@ I used [Processing](http://processing.org/) for both the visuals and the trackin
 Check out a video of the installation: 
 {% include vimeo.html id=33660080 %}
 Project co-developed with Nahuel Sauza and [NOS](http://nos.com.ar/).
-

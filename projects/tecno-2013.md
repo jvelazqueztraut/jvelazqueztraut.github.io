@@ -16,7 +16,6 @@ Other content was displayed on rear-projected screens and we used IR cameras to 
 Some other content was just on awesome touch screen TVs:
 ![Tecnópolis 2013]({{ site.url }}/projects/tecno-2013/Tecno2013-3.jpg)
 
-Check out a video of the installations: 
+Check out a video of the installations:
 {% include vimeo.html id=79200444 %}
 Project by [+OTROS](http://masotros.com/) and [NOS](http://nos.com.ar/).
-

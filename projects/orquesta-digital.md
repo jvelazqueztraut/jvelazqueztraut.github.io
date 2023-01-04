@@ -9,7 +9,7 @@ Here are some renders of the first designs we came up for the space:
 ![Orquesta Digital render]({{ site.url }}/projects/orquesta-digital/Render-1.jpg)
 ![Orquesta Digital render]({{ site.url }}/projects/orquesta-digital/Render-2.jpg)
 
-I made an interface using Processing for every kid to be able to chose which type of instruments they wanted to use. The instruments were chosen from specific regions from Argentina. The sequencer interface allowed them to easily add sounds to the sequence and compose their own rythms. 
+I made an interface using Processing for every kid to be able to chose which type of instruments they wanted to use. The instruments were chosen from specific regions from Argentina. The sequencer interface allowed them to easily add sounds to the sequence and compose their own rythms.
 ![Orquesta Digital]({{ site.url }}/projects/orquesta-digital/Orquesta-1.jpg)
 ![Orquesta Digital]({{ site.url }}/projects/orquesta-digital/Orquesta-2.jpg)
 Check out one of the workshoppers talking about the installation (spanish):

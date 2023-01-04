@@ -4,16 +4,16 @@ This portfolio is based on [LenPaul Jekyll theme](https://github.com/LeNPaul/por
 
 [http://jvelazqueztraut.github.io](http://jvelazqueztraut.github.io)
 
-#### Installation
+## Installation
 
 Download and `bundle install`.
 For more options and troubleshooting checkout the original repository of the theme.
 
-#### Development
+## Development
 
 Run `jekyll serve`.
 
-#### Deployment
+## Deployment
 
 Deployment relies on [github-pages](https://jekyllrb.com/docs/github-pages/) gem.
 Just push to the `master` branch.

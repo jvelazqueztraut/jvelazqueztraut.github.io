@@ -11,4 +11,3 @@ It was installed in Personal Fest 2014. Many of the resulting artworks were prin
 ![Art Drums]({{ site.url }}/projects/art-drums/Bateria-1.jpg)
 ![Art Drums]({{ site.url }}/projects/art-drums/Bateria-2.jpg)
 Project by [+OTROS](http://masotros.com/).
-
