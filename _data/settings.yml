@@ -57,8 +57,8 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/jvelazqueztraut'}
 - {icon: 'github', link: 'https://github.com/jvelazqueztraut'}
 - {icon: 'facebook', link: 'https://www.facebook.com/jvelazqueztraut'}
-- {icon: 'instagram', link: 'https://www.instagram.com/nigrou'}
-- {icon: 'twitter', link: 'https://twitter.com/nigrou'}
+- {icon: 'instagram', link: 'https://www.instagram.com/eljavote'}
+- {icon: 'twitter', link: 'https://twitter.com/eljavote'}
 - {icon: 'envelope', link: 'mailto:j.velazqueztraut@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
