@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Art Drums'
+title: 'Personal Art Drums'
 date: 'May 2014'
 tag: '#openFrameworks #Processing #Generative'
 ---

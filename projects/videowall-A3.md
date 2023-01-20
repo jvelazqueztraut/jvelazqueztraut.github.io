@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Videowall'
+title: 'A3 Videowall'
 date: 'May 2017'
 tag: '#openFrameworks #Ionic'
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interactive Semi-truck'
+title: 'YPF Interactive Semi-truck'
 date: 'Sept 2014'
 tag: '#openFrameworks #Kinect #Mapping #FaceTracking'
 ---

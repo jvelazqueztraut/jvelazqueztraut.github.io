@@ -36,18 +36,21 @@ google-analytics-ua: 'UA-104060517-1'
 # Work Section
 
 projects:
-- {title: 'Videowall', name: 'videowall-A3', date: 'May 2017'}
+- {title: 'GERDA Goodenough Live Set', name: 'goodenough', date: 'Sep 2022'}
+- {title: 'LCW Fashion Show', name: 'lcw', date: 'May 2022'}
+- {title: 'Unusual Party Sign', name: 'unusual', date: 'Oct 2021'}
+- {title: 'A3 Videowall', name: 'videowall-A3', date: 'May 2017'}
 - {title: 'Super LED Tubes', name: 'VEEM', date: 'March 2017'}
 - {title: 'Betrack IoT', name: 'betrack', date: 'Dec 2016'}
-- {title: 'Interactive Semi-truck', name: 'trailer', date: 'Sept 2014'}
+- {title: 'YPF Interactive Semi-truck', name: 'trailer', date: 'Sept 2014'}
 - {title: 'Autocalibration System', name: 'autocalibration', date: 'Aug 2014'}
 - {title: 'Museo Malvinas', name: 'malvinas', date: 'June 2014'}
-- {title: 'Art Drums', name: 'art-drums', date: 'May 2014'}
+- {title: 'Personal Art Drums', name: 'art-drums', date: 'May 2014'}
 - {title: 'Mecon Tecnópolis 2013', name: 'tecno-2013', date: 'July 2013'}
 - {title: 'Kinder World', name: 'kinder', date: 'July 2013'}
 - {title: 'Augmented Professionals', name: 'min-social', date: 'Oct 2012'}
-- {title: 'Digital Orchestra', name: 'orquesta-digital', date: 'July 2012'}
-- {title: 'Live Kinect Visuals', name: 'fuga', date: 'May 2012'}
+- {title: 'Tecnópolis Digital Orchestra', name: 'orquesta-digital', date: 'July 2012'}
+- {title: 'CETC Live Kinect Visuals', name: 'fuga', date: 'May 2012'}
 - {title: 'Interactive Phrases', name: 'lengua', date: 'Sept 2011'}
 
 #-------------------------------
@@ -59,6 +62,5 @@ social:
 - {icon: 'facebook', link: 'https://www.facebook.com/jvelazqueztraut'}
 - {icon: 'instagram', link: 'https://www.instagram.com/eljavote'}
 - {icon: 'twitter', link: 'https://twitter.com/eljavote'}
-- {icon: 'envelope', link: 'mailto:j.velazqueztraut@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
