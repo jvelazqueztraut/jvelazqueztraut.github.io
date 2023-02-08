@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Javier Velazquez Traut
-subtitle: Lateral Portfolio
+subtitle: Portfolio
 description: Javier Velazquez Traut Portfolio
 email: j.velazqueztraut@gmail.com
 
@@ -18,9 +18,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Javier Velazquez Traut Portfolio Creative Technologist Electronic Engineer Cran.io Cranio +Otros Masotros openFrameworks'
-  rel-author: 'http://j.velazqueztraut.com'
-  rel-publisher: 'http://j.velazqueztraut.com'
+  description: 'Javier Velazquez Traut Portfolio Creative Technologist Electronic Engineer Generative Developer Light LED openFramework Touchdesigner'
+  rel-author: 'http://velazqueztraut.com'
+  rel-publisher: 'http://velazqueztraut.com'
 
 #-------------------------------
 # Google Analytics Section
