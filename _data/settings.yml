@@ -37,7 +37,7 @@ google-analytics-ua: 'UA-104060517-1'
 
 projects:
 - {title: 'Your Mind Is Your Playground', name: 'ymiyp', date: 'Oct 2022'}
-- {title: 'GERDA Goodenough Live Set', name: 'goodenough', date: 'Sep 2022'}
+- {title: 'GERDA Live Set', name: 'goodenough', date: 'Sep 2022'}
 - {title: 'London Craftweek Fashion Show', name: 'lcw', date: 'May 2022'}
 - {title: 'Unusual Party Sign', name: 'unusual', date: 'Oct 2021'}
 - {title: 'A3 Videowall', name: 'videowall-A3', date: 'May 2017'}

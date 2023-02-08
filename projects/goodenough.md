@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GERDA Goodenough Live Set'
+title: 'GERDA Live Set'
 date: 'Sep 2022'
 tag: '#QuinLED #WLED #Protopixel #TouchDesigner'
 ---
