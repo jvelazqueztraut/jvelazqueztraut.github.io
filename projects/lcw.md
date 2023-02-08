@@ -10,13 +10,16 @@ Together with a team of wonderful artists and designers ([@catalinajoy](https://
 
 ![London Craftweek Clara Pinto Fashion Show]({{ site.url }}/projects/lcw/lcw-1.jpg)
 
-I built custom LED controllers based on ESP32 that run [WLED](https://kno.wled.ge/) and can be controller over-the-air using Artnet DMX. The rest of the stage lights in the setup are also controlled in realtime using DMX. The software to run the show was [Protopixel](https://www.protopixel.io/). Here are some pics from the build:
+Inspired by videogame visuals, our goal was to turn the runway into a playful journey with highlighted stops where the models would pause and reveal the designs.
 
 ![London Craftweek Clara Pinto Fashion Show]({{ site.url }}/projects/lcw/lcw-2.jpg)
+
+I built custom LED controllers based on ESP32 that run [WLED](https://kno.wled.ge/) and can be controlled over-the-air using Artnet DMX. The rest of the stage lights in the setup are also controlled in realtime using DMX. The software used to run the show was [Protopixel](https://www.protopixel.io/). Here are some pics from the build:
+
 ![London Craftweek Clara Pinto Fashion Show]({{ site.url }}/projects/lcw/lcw-3.jpg)
 ![London Craftweek Clara Pinto Fashion Show]({{ site.url }}/projects/lcw/lcw-4.jpg)
 
 Here is a video of the show:
 <iframe width="100%" height="330" src="https://www.youtube.com/embed/aPoZaW3Fb3c" frameborder="0" allowfullscreen></iframe>
 
-More pics of the show in [this post](https://www.instagram.com/p/CdbHcJVI0dk/).
+More pics in [this post](https://www.instagram.com/p/CdbHcJVI0dk/).
