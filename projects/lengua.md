@@ -8,5 +8,5 @@ Museo de la Lengua (Museum of the Book and Language) from Buenos Aires exhibits 
 
 I used [Processing](http://processing.org/) for both the visuals and the tracking. The tracking was done using cameras in the ceiling. The visuals rendered a simple yet engaging 3D world with really cool camera-depth simulation.
 Check out a video of the installation:
-{% include vimeo.html id=33660080 %}
+<iframe width="100%" height="330" src="https://www.youtube.com/embed/M3C84N0iTQA" frameborder="0" allowfullscreen></iframe>
 Project co-developed with Nahuel Sauza and [NOS](http://nos.com.ar/).
