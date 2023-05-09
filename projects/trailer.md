@@ -6,6 +6,8 @@ tag: '#openFrameworks #Kinect #Mapping #FaceTracking'
 ---
 I took part of the design and development of an interactive semi-truck for [Fundación YPF](http://www.fundacionypf.org/). This truck informs about the story of energy and the new forms of renewable energy!
 
+![Fundación YPF Semi-truck]({{ site.url }}/projects/trailer/YPF Trailer.gif)
+
 In the first stage of the truck you would encounter a interactive video telling you about the story of energy. The set-up consisted of 4 screens aligned and synced with touchscreen panels. This installation also has cameras that take a picture of the vivistors and invites them to the screen:
 ![Fundación YPF Semi-truck]({{ site.url }}/projects/trailer/Trailer-1.jpg)
 ![Fundación YPF Semi-truck]({{ site.url }}/projects/trailer/Trailer-2.jpg)
