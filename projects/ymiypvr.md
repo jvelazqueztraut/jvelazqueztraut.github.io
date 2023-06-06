@@ -10,6 +10,11 @@ This 5-minute surreal experience explores the idea of letting your mind wander w
 
 <iframe width="100%" height="330" src="https://www.youtube.com/embed/Amk1ighSY88" frameborder="0" allowfullscreen></iframe>
 
+Here are some pics of the installation and people having fun:
+
+![YMIYP VR]({{ site.url }}/projects/ymiypvr/ymiypvr-show1.jpg)
+![YMIYP VR]({{ site.url }}/projects/ymiypvr/ymiypvr-show2.jpg)
+
 This piece came out mostly from experimentation trying out object dynamics and forms of interaction inside the 3D space. This was built using Unity which is super versatile for experimentation! Here are some stills of the end result:
 
 ![YMIYP VR]({{ site.url }}/projects/ymiypvr/ymiypvr0.jpg)
