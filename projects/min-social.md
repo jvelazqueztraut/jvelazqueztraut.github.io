@@ -10,6 +10,5 @@ I developed an interactive installation for kids to be exhibited at the Youth Co
 ![Ministerio Social]({{ site.url }}/projects/min-social/MinSocial-3.jpg)
 ![Ministerio Social]({{ site.url }}/projects/min-social/MinSocial-4.jpg)
 ![Ministerio Social]({{ site.url }}/projects/min-social/MinSocial-5.jpg)
-![Ministerio Social]({{ site.url }}/projects/min-social/MinSocial-6.jpg)
 
 Project by [+OTROS](http://masotros.com/).
