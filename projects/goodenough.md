@@ -17,9 +17,4 @@ The stage included multiple lights that can be controlled via DMX. Here is a pic
 ![GERDA Goodenough Live Set]({{ site.url }}/projects/goodenough/goodenough-1.jpg)
 
 Here is a little snippet of the show (more to come soon):
-<video width="100%" height="330" controls>
-  <source src="{{ site.url }}/assets/video/goodenough.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
-<a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"> </a>
+<iframe width="100%" height="330" src="https://www.youtube.com/embed/tK-FrIBKI6Q" frameborder="0" allowfullscreen></iframe>
