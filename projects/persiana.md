@@ -13,13 +13,13 @@ Generative audiovisual work with LED tubes reflected on a canvas:
 ![Persiana]({{ site.url }}/projects/persiana/persiana1.jpg)
 
 The installation was inspired by American blinds, which let light in horizontally. I think they are quite nice. 
-I transferred that inspiration to my play area, which is LED lights. I designed a setup and started experimenting, at one point I choose to stick with indirect lighting, but I ended up creating a low-resolution screen.
+I transferred that inspiration to my play area, LED lights. I designed a setup and started experimenting. I ended up creating a low-resolution screen with indirect lighting.
 
-Since I am recently interested in artificial intelligence and general questions around computability, it occurred to me that these visuals on the screen could represent the construction of internal knowledge that a machine has. That is why I decided to present generative visuals based on geometric shapes. This is an abstract image that comes from algorithms. Mathematical signals and counts that create colors and generate animations.
+Since I am recently interested in artificial intelligence and general questions around computability, it occurred to me that this setup could represent the construction of internal knowledge that a machine has. That is why I decided to present generative visuals based on geometric shapes. This is an abstract image that comes from algorithms. Mathematical signals and counts that create colors and generate animations.
 
-I decided to refrain from using pictorial images or realist images on the screen because I do not believe that this is truly representative of the internal construction of knowledge of a machine. I think it is important to distinguish this construction of knowledge (or if we want to call it consciousness) that a machine has versus that of a human, because the machine thinks in 1 and 0, in numbers, and we do not.
+I decided to refrain from using pictorial images or realistic images on the screen because I do not believe that this is truly representative of the internal construction of knowledge of a machine. I think it is important to distinguish this type of knowledge (or if we want to call it consciousness) that a machine has versus that of a human, because the machine thinks in 1 and 0, in numbers, and we do not.
 
-The feedback loop that occurs with the installation is interesting when, looking at it, we are the ones who assign pictorial and even emotional values ​​to the geometric images based on algorithms. It is our interpretation that gives an emotional value to the capacities of a machine. We believe that there is consciousness and feeling there, the machine does not believe it. This is how we project our own human tragedy onto these functional devices and end up generating self-fulfilling prophecies.
+The feedback loop that occurs with the installation is interesting when, looking at it, we are the ones who assign memories or imaginations ​​to the geometric images based on algorithms. It is our interpretation that give an emotional value to the capacities of a machine. We believe that there is consciousness and feeling there, the machine does not believe it. This is how we project our own human tragedy onto merely functional devices and end up creating self-fulfilling prophecies.
 
 ![Persiana]({{ site.url }}/projects/persiana/persiana2.jpg)
 ![Persiana]({{ site.url }}/projects/persiana/persiana3.jpg)
