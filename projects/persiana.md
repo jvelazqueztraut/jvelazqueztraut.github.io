@@ -6,7 +6,7 @@ tag: '#VisualArt #LightInstallation #Generative'
 ---
 <iframe width="100%" height="330" src="https://www.youtube.com/embed/EmkWHASIPs8" frameborder="0" allowfullscreen></iframe>
 
->*Computerized consciousness has no pictorial forms. Algorithms resolve in numbers and geometric shapes. We are the ones projecting human capacities onto it. We look for similarities and get scared of ourselves. We believe that it has thought, feeling, intention. The machine does not believe it. The machine does not believe.*
+>*La conciencia computarizada no tiene formas pictóricas. Los algoritmos resuelven en números y formas geométricas. Somos nosotros los que proyectamos capacidades humanas sobre ella, buscamos semejanzas y nos asustamos de nosotros mismos. Creemos que allí hay pensamiento, sentimiento, intención. La máquina no lo cree. La máquina no cree.*
 
 Generative audiovisual work with LED tubes reflected on a canvas:
 
