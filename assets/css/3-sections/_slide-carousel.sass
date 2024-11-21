@@ -1,0 +1,16 @@
+.carousel-item 
+    height: 500px // Fixed height for the carousel
+    display: none // Hide all carousel items by default
+    align-items: center
+    justify-content: center
+    &.carousel-item-next,
+    &.active
+        display: flex // Only display the active carousel item
+    img
+        max-height: 100%
+        max-width: 100%
+        object-fit: contain
+
+.carousel-control-next,
+.carousel-control-prev
+    filter: invert(1)
