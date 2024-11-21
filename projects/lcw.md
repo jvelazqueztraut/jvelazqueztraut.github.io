@@ -2,7 +2,7 @@
 layout: post
 title: 'London Craftweek Fashion Show'
 date: 'May 2022'
-tag: '#ESP32 #WLED #Protopixel'
+tag: 'Light Design | WLED | ESP32'
 ---
 Light design and AV show for [Clara Pinto](https://www.instagram.com/laclarapinto/)'s fashion show during London Craftweek 2022.
 

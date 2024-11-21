@@ -2,7 +2,7 @@
 layout: post
 title: 'Persiana'
 date: 'Apr 2024'
-tag: '#VisualArt #LightInstallation #Generative'
+tag: 'Visual Art | Light Installation | Generative'
 ---
 <iframe width="100%" height="330" src="https://www.youtube.com/embed/EmkWHASIPs8" frameborder="0" allowfullscreen></iframe>
 

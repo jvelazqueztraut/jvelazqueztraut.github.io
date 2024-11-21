@@ -2,7 +2,7 @@
 layout: post
 title: 'Unusual Party Sign'
 date: 'Oct 2021'
-tag: '#ESP32 #WLED'
+tag: 'Light Design | WLED | ESP32'
 ---
 Audio reactive sign for the [Unusual](https://www.instagram.com/unusual.london/) party in London.
 

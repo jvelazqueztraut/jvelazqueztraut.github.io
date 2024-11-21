@@ -2,7 +2,7 @@
 layout: post
 title: 'GERDA Live Set'
 date: 'Sep 2022'
-tag: '#QuinLED #WLED #Protopixel #TouchDesigner'
+tag: 'Light Design | WLED | TouchDesigner'
 ---
 Stage light design and visual show for [Guido Sirna aka GERDA](https://www.instagram.com/gerdamusic/)'s live set in Goodenough College London.
 

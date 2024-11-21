@@ -2,7 +2,7 @@
 layout: post
 title: 'Battle of the Baddest AR'
 date: 'Oct 2023'
-tag: '#WebAR #ThreeJS #8thwall'
+tag: 'WebAR | ThreeJS | 8th-wall'
 ---
 
 Web AR experience developed to promote the historic boxing match between Tyson Fury and Francis Ngannou, one of the biggest events in the sport this decade. The website served as the central online hub for the fight, offering pre-fight hype and post-fight highlights.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IV Semana Nacional del Emprendedor Tecnológico'
-tag: '#Speaker'
+tag: 'Speaker'
 ---
 
 I was invited to give a talk about hardware and software development hosted at [CADIEEL](http://www.cadieel.org.ar/).

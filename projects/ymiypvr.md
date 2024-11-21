@@ -2,7 +2,7 @@
 layout: post
 title: 'YMIYP VR'
 date: 'Apr 2023'
-tag: '#VR #Unity'
+tag: 'VR | Experiment | Unity'
 ---
 Virtual Reality experience designed and developed for the exhibition *Your Mind is Your Playground* based on the video/performance by [Juana Isola](https://www.instagram.com/juanaisola/).
 

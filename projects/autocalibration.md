@@ -2,7 +2,7 @@
 layout: post
 title: 'Autocalibration System'
 date: 'August 2014'
-tag: '#openFrameworks #MaxMSP #Arduino'
+tag: 'Mapping | openFrameworks | Arduino'
 ---
 Developed an autocalibration system for projection mapping. Check it out:
 

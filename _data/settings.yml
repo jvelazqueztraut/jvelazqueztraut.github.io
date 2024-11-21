@@ -36,28 +36,28 @@ google-analytics-ua: 'UA-104060517-1'
 # Work Section
 
 projects:
-- {title: 'Persiana', name: 'persiana', date: 'Apr 2024'}
-- {title: 'Dove: Real Beauty DNA', name: 'dove', date: 'Mar 2024'}
-- {title: 'Battle of the Baddest AR', name: 'botb', date: 'Oct 2023'}
-- {title: 'Beefeater: The Spirit of London', name: 'beefeater', date: 'Aug 2023'}
-- {title: 'YMIYP VR', name: 'ymiypvr', date: 'Apr 2023'}
-- {title: 'Your Mind is Your Playground', name: 'ymiyp', date: 'Oct 2022'}
-- {title: 'GERDA Live Set', name: 'goodenough', date: 'Sep 2022'}
-- {title: 'London Craftweek Fashion Show', name: 'lcw', date: 'May 2022'}
-- {title: 'Unusual Party Sign', name: 'unusual', date: 'Oct 2021'}
-- {title: 'A3 Videowall', name: 'videowall-A3', date: 'May 2017'}
-- {title: 'Super LED Tubes', name: 'VEEM', date: 'March 2017'}
-- {title: 'Betrack IoT', name: 'betrack', date: 'Dec 2016'}
-- {title: 'YPF Interactive Semi-truck', name: 'trailer', date: 'Sept 2014'}
-- {title: 'Autocalibration System', name: 'autocalibration', date: 'Aug 2014'}
-- {title: 'Museo Malvinas', name: 'malvinas', date: 'June 2014'}
-- {title: 'Personal Art Drums', name: 'art-drums', date: 'May 2014'}
-- {title: 'Mecon Tecnópolis 2013', name: 'tecno-2013', date: 'July 2013'}
-- {title: 'Kinder World', name: 'kinder', date: 'July 2013'}
-- {title: 'Augmented Professionals', name: 'min-social', date: 'Oct 2012'}
-- {title: 'Tecnópolis Digital Orchestra', name: 'orquesta-digital', date: 'July 2012'}
-- {title: 'CETC Live Kinect Visuals', name: 'fuga', date: 'May 2012'}
-- {title: 'Interactive Phrases', name: 'lengua', date: 'Sept 2011'}
+- {title: 'Persiana', name: 'persiana', date: 'Apr 2024', tag: 'Visual Art | Light Installation | Generative'}
+- {title: 'Dove: Real Beauty DNA', name: 'dove', date: 'Mar 2024', tag: 'Web Development | Interactive'}
+- {title: 'Battle of the Baddest AR', name: 'botb', date: 'Oct 2023', tag: 'WebAR | ThreeJS | 8th-wall'}
+- {title: 'Beefeater: The Spirit of London', name: 'beefeater', date: 'Aug 2023', tag: 'WebAR | ThreeJS | 8th-wall'}
+- {title: 'YMIYP VR', name: 'ymiypvr', date: 'Apr 2023', tag: 'VR | Experiment | Unity'}
+- {title: 'Your Mind is Your Playground', name: 'ymiyp', date: 'Oct 2022', tag: 'Light Design'}
+- {title: 'GERDA Live Set', name: 'goodenough', date: 'Sep 2022', tag: 'Light Design | WLED | TouchDesigner'}
+- {title: 'London Craftweek Fashion Show', name: 'lcw', date: 'May 2022', tag: 'Light Design | WLED | ESP32'}
+- {title: 'Unusual Party Sign', name: 'unusual', date: 'Oct 2021', tag: 'Light Design | WLED | ESP32'}
+- {title: 'A3 Videowall', name: 'videowall-A3', date: 'May 2017', tag: 'openFrameworks | Ionic'}
+- {title: 'Super LED Tubes', name: 'VEEM', date: 'March 2017', tag: 'Light Design | openFrameworks | Arduino'}
+- {title: 'Betrack IoT', name: 'betrack', date: 'Dec 2016', tag: 'IoT | Beacons | Nodejs'}
+- {title: 'YPF Interactive Semi-truck', name: 'trailer', date: 'Sept 2014', tag: 'Interactive Installation | Mapping | AR | openFrameworks | Kinect'}
+- {title: 'Autocalibration System', name: 'autocalibration', date: 'Aug 2014', tag: 'Mapping | openFrameworks | Arduino'}
+- {title: 'Museo Malvinas', name: 'malvinas', date: 'June 2014', tag: 'Interactive Installation | openFrameworks'}
+- {title: 'Personal Art Drums', name: 'art-drums', date: 'May 2014', tag: 'Interactive Installation | Generative | openFrameworks'}
+- {title: 'Mecon Tecnópolis 2013', name: 'tecno-2013', date: 'July 2013', tag: 'Interactive Installation | Mapping | openFrameworks | Kinect'}
+- {title: 'Kinder World', name: 'kinder', date: 'July 2013', tag: 'Interactive Installation | AR | openFrameworks | Kinect'}
+- {title: 'Augmented Professionals', name: 'min-social', date: 'Oct 2012', tag: 'AR | openFrameworks'}
+- {title: 'Tecnópolis Digital Orchestra', name: 'orquesta-digital', date: 'July 2012', tag: 'Interactive Installation | Processing | MaxMSP'}
+- {title: 'CETC Live Kinect Visuals', name: 'fuga', date: 'May 2012', tag: 'Visual Art | openFrameworks | Kinect'}
+- {title: 'Interactive Phrases', name: 'lengua', date: 'Sept 2011', tag: 'Interactive Installation | Processing'}
 
 #-------------------------------
 # Contact Section

@@ -2,7 +2,7 @@
 layout: post
 title: 'Your Mind Is Your Playground'
 date: 'Oct 2022'
-tag: '#Performance'
+tag: 'Light Design'
 ---
 Light design for [Juana Isola](https://www.instagram.com/juanaisola/)'s exhibition *Your Mind Is Your Playground* performed at Omega Works in London on October 2022.
 

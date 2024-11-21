@@ -2,7 +2,7 @@
 layout: post
 title: 'Videowall A3'
 date: 'May 2017'
-tag: '#openFrameworks #Ionic'
+tag: 'openFrameworks | Ionic'
 ---
 Videowall installation and software development for [Area Tres Cowork](http://www.areatresworkplace.com/).
 

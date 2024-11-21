@@ -2,7 +2,7 @@
 layout: post
 title: 'Museo Malvinas'
 date: 'June 2014'
-tag: '#openFrameworks'
+tag: 'Interactive Installation | openFrameworks'
 ---
 Development of 3 multi-touch apps for 4k TVs deployed at the [Museo Malvinas](https://museomalvinas.cultura.gob.ar/) in Buenos Aires, Argentina.
 

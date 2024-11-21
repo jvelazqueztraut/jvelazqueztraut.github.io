@@ -2,7 +2,7 @@
 layout: post
 title: 'Beefeater: The Spirit of London'
 date: 'Aug 2023'
-tag: '#WebAR #ThreeJS #8thwall'
+tag: 'WebAR | ThreeJS | 8th-wall'
 ---
 
 Web AR experience created for Beefeater Gin under their campaign *The Spirit of London*. This project brought iconic London landmarks to users around the globe, culminating in the reveal of the Beefeater Gin bottle in a stunning AR sequence.

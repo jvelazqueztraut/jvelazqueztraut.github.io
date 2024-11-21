@@ -2,7 +2,7 @@
 layout: post
 title: 'YPF Interactive Semi-truck'
 date: 'Sept 2014'
-tag: '#openFrameworks #Kinect #Mapping #FaceTracking'
+tag: 'Interactive Installation | Mapping | AR | openFrameworks | Kinect'
 ---
 I took part of the design and development of an interactive semi-truck for [Fundación YPF](http://www.fundacionypf.org/). This truck informs about the story of energy and the new forms of renewable energy!
 

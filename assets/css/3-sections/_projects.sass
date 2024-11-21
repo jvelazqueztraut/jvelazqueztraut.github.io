@@ -25,23 +25,35 @@
       vertical-align: center
       //+transition
       +display(flex)
+      +flex-direction(column)
       +align-items(center)
       +justify-content(center)
-      .thumb-date
-        display: block
-        color: white
-        font:
-          size: 16px
-          weight: 300
-      .thumb-title
-        display: block
-        padding: 10px
-        color: white
-        line-height: 1.2
-        color: white
-        font:
-          size: 24px
-          weight: 700
+      .thumb-overlay-header
+        margin-top: 35px
+        .thumb-date
+          display: block
+          color: white
+          font:
+            size: 16px
+            weight: 300
+        .thumb-title
+          display: block
+          padding: 10px
+          color: white
+          line-height: 1.2
+          font:
+            size: 24px
+            weight: 700
+      .thumb-overlay-footer
+        margin-top: 35px
+        .thumb-tag
+          display: inline-block
+          color: white
+          padding: 5px
+          margin-right: 5px
+          font:
+            size: 14px
+            weight: 400
     &:hover .thumb-overlay
       +position(absolute, 0px 0px null 0px)
 
