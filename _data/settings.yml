@@ -37,7 +37,7 @@ google-analytics-ua: 'UA-104060517-1'
 
 projects:
 - {title: 'Persiana', name: 'persiana', date: 'Apr 2024'}
-- {title: 'BOTB', name: 'botb', date: 'Oct 2023'}
+- {title: 'Battle of the Baddest AR', name: 'botb', date: 'Oct 2023'}
 - {title: 'YMIYP VR', name: 'ymiypvr', date: 'Apr 2023'}
 - {title: 'Your Mind is Your Playground', name: 'ymiyp', date: 'Oct 2022'}
 - {title: 'GERDA Live Set', name: 'goodenough', date: 'Sep 2022'}

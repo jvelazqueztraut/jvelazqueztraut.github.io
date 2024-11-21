@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Battle of the Baddest Web AR'
+title: 'Battle of the Baddest AR'
 date: 'Oct 2023'
 tag: '#WebAR #ThreeJS #8thwall'
 ---
