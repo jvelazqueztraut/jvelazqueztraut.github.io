@@ -1,0 +1,9 @@
+<div class="horizontal-carousel">
+    <div class="horizontal-carousel-inner">
+      {% for image in include.images %}
+        <div class="horizontal-carousel-item">
+          <img src="{{ image }}" alt="{{ include.alt }}">
+        </div>
+      {% endfor %}
+    </div>
+</div>
