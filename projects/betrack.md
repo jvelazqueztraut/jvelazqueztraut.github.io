@@ -2,7 +2,7 @@
 layout: post
 title: 'Betrack IoT'
 date: 'Dec 2016'
-tag: '#IoT #Beacons #Nodejs'
+tag: 'IoT | Beacons | Nodejs'
 ---
 [Betrack](http://betrack.co/) brings to the market the first bespoke IoT solution for keg monitoring and management across all the beer supply chain.
 

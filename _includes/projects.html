@@ -4,8 +4,13 @@
       <a href="{{ site.github.url }}/projects/{{ project.name }}.html">
         <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.name }}" style="background-image: url({{ site.github.url }}/projects/{{ project.name }}/thumb.jpg)">
           <div class="thumb-overlay">
-            <span class="thumb-date">{{ project.date }}</span>
-            <span class="thumb-title">{{ project.title }} <i class="fa fa-arrow-right" aria-hidden="true"></i></span>
+            <div class="thumb-overlay-header">
+              <span class="thumb-date">{{ project.date }}</span>
+              <span class="thumb-title">{{ project.title }}</span>
+            </div>
+            <div class="thumb-overlay-footer">
+              <span class="thumb-tag">{{ project.tag }}</span>
+            </div>
           </div>
         </div>
       </a>

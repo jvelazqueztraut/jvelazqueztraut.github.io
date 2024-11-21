@@ -2,7 +2,7 @@
 layout: post
 title: 'Persiana'
 date: 'Apr 2024'
-tag: '#VisualArt #LightInstallation #Generative'
+tag: 'Visual Art | Light Installation | Generative'
 ---
 <iframe width="100%" height="330" src="https://www.youtube.com/embed/EmkWHASIPs8" frameborder="0" allowfullscreen></iframe>
 
@@ -21,11 +21,6 @@ I decided to refrain from using pictorial images or realistic images on the scre
 
 The feedback loop that occurs with the installation is interesting when, looking at it, we are the ones who assign memories or imaginations ​​to the geometric images based on algorithms. It is our interpretation that give an emotional value to the capacities of a machine. We believe that there is consciousness and feeling there, the machine does not believe it. This is how we project our own human tragedy onto merely functional devices and end up creating self-fulfilling prophecies.
 
-![Persiana]({{ site.url }}/projects/persiana/persiana2.jpg)
-![Persiana]({{ site.url }}/projects/persiana/persiana3.jpg)
-![Persiana]({{ site.url }}/projects/persiana/persiana4.jpg)
-![Persiana]({{ site.url }}/projects/persiana/persiana5.jpg)
-![Persiana]({{ site.url }}/projects/persiana/persiana6.jpg)
-![Persiana]({{ site.url }}/projects/persiana/persiana7.jpg)
+{% include slide-carousel.html id="persianaCarousel" images=site.data.persiana.images alt="Persiana" %}
 
 It was exhibited in my studio in Piso 29 from Apr-Jul 2024.

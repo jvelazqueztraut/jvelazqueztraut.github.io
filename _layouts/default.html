@@ -10,7 +10,7 @@
   <meta name="description" content="{{ site.data.settings.seo.description }}">
   <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
   <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
-
+  
   <title>
     {% if page.title == "Home" %}
       {{ site.data.settings.title }}
@@ -19,26 +19,31 @@
     {% endif %}
   </title>
 
-  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
 
   {% include analytics.html %}
 </head>
 <body>
 
-<div class="site-container">
+  <div class="site-container">
 
-  {% include header.html %}
+    {% include header.html %}
 
-  {{ content }}
+    {{ content }}
 
-  {% include footer.html %}
+    {% include footer.html %}
 
-</div>
+  </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="{{ site.github.url }}/assets/js/functions.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="{{ site.github.url }}/assets/js/functions.js"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </body>
 </html>

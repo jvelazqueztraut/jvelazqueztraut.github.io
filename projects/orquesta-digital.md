@@ -2,7 +2,7 @@
 layout: post
 title: 'Digital Orchestra'
 date: 'July 2012'
-tag: '#Processing #MaxMSP'
+tag: 'Interactive Installation | Processing | MaxMSP'
 ---
 We were asked to design a space where kids could work together making music for the Tecnópolis 2012 exhibition. The project consisted of 12 netbooks with a *sequencer* interface that was synchronized altogether to form a Digital Orchestra.
 Here are some renders of the first designs we came up for the space:

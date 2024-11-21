@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'A3 Videowall'
+title: 'Videowall A3'
 date: 'May 2017'
-tag: '#openFrameworks #Ionic'
+tag: 'openFrameworks | Ionic'
 ---
 Videowall installation and software development for [Area Tres Cowork](http://www.areatresworkplace.com/).
 
@@ -13,9 +13,5 @@ These configurations are chosen from a web and/or mobile interface I made using 
 ![Videowall montaje]({{ site.url }}/projects/videowall-A3/Videowall-screen-ionic.jpg)
 
 Check out some pics of the setup:
-![Videowall montaje]({{ site.url }}/projects/videowall-A3/Videowall-1.jpg)
-![Videowall montaje]({{ site.url }}/projects/videowall-A3/Videowall-2.jpg)
-![Videowall montaje]({{ site.url }}/projects/videowall-A3/Videowall-3.jpg)
-![Videowall montaje]({{ site.url }}/projects/videowall-A3/Videowall-4.jpg)
-![Videowall montaje]({{ site.url }}/projects/videowall-A3/Videowall-5.jpg)
-![Videowall montaje]({{ site.url }}/projects/videowall-A3/Videowall-6.jpg)
+{% include slide-carousel.html id="videowallA3Carousel" images=site.data.videowall-A3.images alt="Videowall A3" %}
+

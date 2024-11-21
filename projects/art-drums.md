@@ -2,7 +2,7 @@
 layout: post
 title: 'Personal Art Drums'
 date: 'May 2014'
-tag: '#openFrameworks #Processing #Generative'
+tag: 'Interactive Installation | Generative | openFrameworks'
 ---
 Generative art based on the sound of a drum! Co-developed with Alan Grizek. We installed pick-ups to each of the drum pieces to get a MIDI signal which we would then use to create generative paint brushes to imitate a Pollock-style:
 

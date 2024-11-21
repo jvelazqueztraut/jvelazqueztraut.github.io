@@ -2,7 +2,7 @@
 layout: post
 title: 'Kinder World'
 date: 'July 2013'
-tag: '#openFrameworks #Kinect'
+tag: 'Interactive Installation | AR | openFrameworks | Kinect'
 ---
 I developed an interactive game for kids to be exhibited at the Feria del Libro 2013 for the brand Kinder. The kids entered the space and found themselves inside a *magical* world and could interact with the elements inside it!
 ![Kinder World]({{ site.url }}/projects/kinder/Kinder-1.jpg)
