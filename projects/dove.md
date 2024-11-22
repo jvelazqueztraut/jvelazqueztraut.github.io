@@ -2,7 +2,7 @@
 layout: post
 title: 'Dove: Real Beauty DNA'
 date: 'Mar 2024'
-tag: 'Web Development | Interactive'
+tag: 'Web Development | NextJS'
 ---
 
 Interactive web experience created for Dove’s *Real Beauty DNA* campaign, extending their commitment to challenging unrealistic beauty standards. The project empowered users to define their own vision of Real Beauty while influencing Pinterest’s algorithm to promote natural, diverse, and authentic imagery.

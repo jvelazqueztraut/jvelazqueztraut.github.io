@@ -37,13 +37,14 @@ google-analytics-ua: 'UA-104060517-1'
 
 projects:
 - {title: 'Persiana', name: 'persiana', date: 'Apr 2024', tag: 'Visual Art | Light Installation | Generative'}
-- {title: 'Dove: Real Beauty DNA', name: 'dove', date: 'Mar 2024', tag: 'Web Development | Interactive'}
+- {title: 'Dove: Real Beauty DNA', name: 'dove', date: 'Mar 2024', tag: 'Web Development | NextJS'}
 - {title: 'Battle of the Baddest AR', name: 'botb', date: 'Oct 2023', tag: 'WebAR | ThreeJS | 8th-wall'}
 - {title: 'Beefeater: The Spirit of London', name: 'beefeater', date: 'Aug 2023', tag: 'WebAR | ThreeJS | 8th-wall'}
 - {title: 'YMIYP VR', name: 'ymiypvr', date: 'Apr 2023', tag: 'VR | Experiment | Unity'}
 - {title: 'Your Mind is Your Playground', name: 'ymiyp', date: 'Oct 2022', tag: 'Light Design'}
 - {title: 'GERDA Live Set', name: 'goodenough', date: 'Sep 2022', tag: 'Light Design | WLED | TouchDesigner'}
 - {title: 'London Craftweek Fashion Show', name: 'lcw', date: 'May 2022', tag: 'Light Design | WLED | ESP32'}
+- {title: 'CAPI Gateway at Meta', name: 'capi-gateway', date: 'Nov 2021', tag: 'Cloud Infrastructure | Kotlin | Vertx'}
 - {title: 'Unusual Party Sign', name: 'unusual', date: 'Oct 2021', tag: 'Light Design | WLED | ESP32'}
 - {title: 'A3 Videowall', name: 'videowall-A3', date: 'May 2017', tag: 'openFrameworks | Ionic'}
 - {title: 'Super LED Tubes', name: 'VEEM', date: 'March 2017', tag: 'Light Design | openFrameworks | Arduino'}
