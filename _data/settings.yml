@@ -44,6 +44,7 @@ projects:
 - {title: 'Your Mind is Your Playground', name: 'ymiyp', date: 'Oct 2022', tag: 'Light Design'}
 - {title: 'GERDA Live Set', name: 'goodenough', date: 'Sep 2022', tag: 'Light Design | WLED | TouchDesigner'}
 - {title: 'London Craftweek Fashion Show', name: 'lcw', date: 'May 2022', tag: 'Light Design | WLED | ESP32'}
+- {title: 'CAPI Gateway at Meta', name: 'capi-gateway', date: 'Nov 2021', tag: 'Cloud Infrastructure | Kotlin | Vertx'}
 - {title: 'Unusual Party Sign', name: 'unusual', date: 'Oct 2021', tag: 'Light Design | WLED | ESP32'}
 - {title: 'A3 Videowall', name: 'videowall-A3', date: 'May 2017', tag: 'openFrameworks | Ionic'}
 - {title: 'Super LED Tubes', name: 'VEEM', date: 'March 2017', tag: 'Light Design | openFrameworks | Arduino'}
