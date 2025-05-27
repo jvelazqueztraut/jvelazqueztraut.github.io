@@ -36,6 +36,7 @@ google-analytics-ua: 'UA-104060517-1'
 # Work Section
 
 projects:
+- {title: 'Twix Second Screen Staredown', name: 'twix', date: 'Feb 2025', tag: 'WebAR | ThreeJS | Mediapipe'}
 - {title: 'Persiana', name: 'persiana', date: 'Apr 2024', tag: 'Visual Art | Light Installation | Generative'}
 - {title: 'Dove: Real Beauty DNA', name: 'dove', date: 'Mar 2024', tag: 'Web Development | NextJS'}
 - {title: 'Battle of the Baddest AR', name: 'botb', date: 'Oct 2023', tag: 'WebAR | ThreeJS | 8th-wall'}
