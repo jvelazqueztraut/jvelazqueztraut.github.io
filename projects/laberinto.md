@@ -2,7 +2,7 @@
 layout: post
 title: 'Laberinto'
 date: 'Apr 2025'
-tag: 'Light Installation | Generative'
+tag: 'Visual Art | Light Installation | Generative'
 ---
 
 Generative light installation exploring the complexity and beauty of light through three dynamic circular pieces. The work creates an immersive maze of light that invites visitors to experience and contemplate the fundamental properties of light: reflection, refraction, shadow, and dynamism.

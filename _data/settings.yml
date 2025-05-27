@@ -36,7 +36,7 @@ google-analytics-ua: 'UA-104060517-1'
 # Work Section
 
 projects:
-- {title: 'Laberinto', name: 'laberinto', date: 'Apr 2025', tag: 'Light Installation | Generative'}
+- {title: 'Laberinto', name: 'laberinto', date: 'Apr 2025', tag: 'Visual Art | Light Installation | Generative'}
 - {title: 'Twix Second Screen Staredown', name: 'twix', date: 'Feb 2025', tag: 'WebAR | ThreeJS | Mediapipe'}
 - {title: 'Que Me Vean Haciendo', name: 'quimera', date: 'Jul 2024', tag: 'Light Design | ESP32 | Art Installation'}
 - {title: 'Persiana', name: 'persiana', date: 'Apr 2024', tag: 'Visual Art | Light Installation | Generative'}
