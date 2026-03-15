@@ -3,7 +3,7 @@ $(function() {
 	previousPosition();
 	//workBelt();
 	//workLoad();
-	clientStuff();
+	projectFilter();
 
 	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
 	$(".biglink").fitText(1.5);
@@ -36,6 +36,29 @@ function previousPosition () {
     }, 600);
 
   });
+}
+
+function projectFilter() {
+	$('.filter-btn').on('click', function() {
+		var filter = $(this).data('filter');
+		
+		// Update active button
+		$('.filter-btn').removeClass('active');
+		$(this).addClass('active');
+		
+		// Filter projects
+		if (filter === 'all') {
+			$('.thumb-unit').fadeIn(300);
+		} else {
+			$('.thumb-unit').each(function() {
+				if ($(this).data('category') === filter) {
+					$(this).fadeIn(300);
+				} else {
+					$(this).fadeOut(300);
+				}
+			});
+		}
+	});
 }
 
 function workBelt() {

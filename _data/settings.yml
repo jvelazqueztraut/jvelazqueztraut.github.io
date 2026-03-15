@@ -36,33 +36,32 @@ google-analytics-ua: 'UA-104060517-1'
 # Work Section
 
 projects:
-- {title: 'Portfolio AI Agent', name: 'portfolio-agent', date: 'Dec 2025', tag: 'Web Development | ThreeJS | Pydantic AI'}
-- {title: 'Laberinto', name: 'laberinto', date: 'Apr 2025', tag: 'Visual Art | Light Installation | Generative'}
-- {title: 'Twix Second Screen Staredown', name: 'twix', date: 'Feb 2025', tag: 'WebAR | ThreeJS | Mediapipe'}
-- {title: 'Que Me Vean Haciendo', name: 'quimera', date: 'Jul 2024', tag: 'Light Design | ESP32 | Art Installation'}
-- {title: 'Persiana', name: 'persiana', date: 'Apr 2024', tag: 'Visual Art | Light Installation | Generative'}
-- {title: 'Dove: Real Beauty DNA', name: 'dove', date: 'Mar 2024', tag: 'Web Development | NextJS'}
-- {title: 'Battle of the Baddest AR', name: 'botb', date: 'Oct 2023', tag: 'WebAR | ThreeJS | 8th-wall'}
-- {title: 'Beefeater: The Spirit of London', name: 'beefeater', date: 'Aug 2023', tag: 'WebAR | ThreeJS | 8th-wall'}
-- {title: 'YMIYP VR', name: 'ymiypvr', date: 'Apr 2023', tag: 'VR | Experiment | Unity'}
-- {title: 'Your Mind is Your Playground', name: 'ymiyp', date: 'Oct 2022', tag: 'Light Design'}
-- {title: 'GERDA Live Set', name: 'goodenough', date: 'Sep 2022', tag: 'Light Design | WLED | TouchDesigner'}
-- {title: 'London Craftweek Fashion Show', name: 'lcw', date: 'May 2022', tag: 'Light Design | WLED | ESP32'}
-- {title: 'CAPI Gateway at Meta', name: 'capi-gateway', date: 'Nov 2021', tag: 'Cloud Infrastructure | Kotlin | Vertx'}
-- {title: 'Unusual Party Sign', name: 'unusual', date: 'Oct 2021', tag: 'Light Design | WLED | ESP32'}
-- {title: 'A3 Videowall', name: 'videowall-A3', date: 'May 2017', tag: 'openFrameworks | Ionic'}
-- {title: 'Super LED Tubes', name: 'VEEM', date: 'March 2017', tag: 'Light Design | openFrameworks | Arduino'}
-- {title: 'Betrack IoT', name: 'betrack', date: 'Dec 2016', tag: 'IoT | Beacons | Nodejs'}
-- {title: 'YPF Interactive Semi-truck', name: 'trailer', date: 'Sept 2014', tag: 'Interactive Installation | Mapping | AR | openFrameworks | Kinect'}
-- {title: 'Autocalibration System', name: 'autocalibration', date: 'Aug 2014', tag: 'Mapping | openFrameworks | Arduino'}
-- {title: 'Museo Malvinas', name: 'malvinas', date: 'June 2014', tag: 'Interactive Installation | openFrameworks'}
-- {title: 'Personal Art Drums', name: 'art-drums', date: 'May 2014', tag: 'Interactive Installation | Generative | openFrameworks'}
-- {title: 'Mecon Tecnópolis 2013', name: 'tecno-2013', date: 'July 2013', tag: 'Interactive Installation | Mapping | openFrameworks | Kinect'}
-- {title: 'Kinder World', name: 'kinder', date: 'July 2013', tag: 'Interactive Installation | AR | openFrameworks | Kinect'}
-- {title: 'Augmented Professionals', name: 'min-social', date: 'Oct 2012', tag: 'AR | openFrameworks'}
-- {title: 'Tecnópolis Digital Orchestra', name: 'orquesta-digital', date: 'July 2012', tag: 'Interactive Installation | Processing | MaxMSP'}
-- {title: 'CETC Live Kinect Visuals', name: 'fuga', date: 'May 2012', tag: 'Visual Art | openFrameworks | Kinect'}
-- {title: 'Interactive Phrases', name: 'lengua', date: 'Sept 2011', tag: 'Interactive Installation | Processing'}
+- {category: 'personal', title: 'Portfolio AI Agent', name: 'portfolio-agent', date: 'Dec 2025', tag: 'Web Development | ThreeJS | Pydantic AI'}
+- {category: 'personal', title: 'Laberinto', name: 'laberinto', date: 'Apr 2025', tag: 'Visual Art | Light Installation | Generative'}
+- {category: 'commercial', title: 'Twix Second Screen Staredown', name: 'twix', date: 'Feb 2025', tag: 'WebAR | ThreeJS | Mediapipe'}
+- {category: 'personal', title: 'Que Me Vean Haciendo', name: 'quimera', date: 'Jul 2024', tag: 'Light Design | ESP32 | Art Installation'}
+- {category: 'personal', title: 'Persiana', name: 'persiana', date: 'Apr 2024', tag: 'Visual Art | Light Installation | Generative'}
+- {category: 'commercial', title: 'Dove: Real Beauty DNA', name: 'dove', date: 'Mar 2024', tag: 'Web Development | NextJS'}
+- {category: 'commercial', title: 'Battle of the Baddest AR', name: 'botb', date: 'Oct 2023', tag: 'WebAR | ThreeJS | 8th-wall'}
+- {category: 'commercial', title: 'Beefeater: The Spirit of London', name: 'beefeater', date: 'Aug 2023', tag: 'WebAR | ThreeJS | 8th-wall'}
+- {category: 'personal', title: 'YMIYP VR', name: 'ymiypvr', date: 'Apr 2023', tag: 'VR | Experiment | Unity'}
+- {category: 'personal', title: 'Your Mind is Your Playground', name: 'ymiyp', date: 'Oct 2022', tag: 'Light Design'}
+- {category: 'personal', title: 'GERDA Live Set', name: 'goodenough', date: 'Sep 2022', tag: 'Light Design | WLED | TouchDesigner'}
+- {category: 'personal', title: 'London Craftweek Fashion Show', name: 'lcw', date: 'May 2022', tag: 'Light Design | WLED | ESP32'}
+- {category: 'commercial', title: 'CAPI Gateway at Meta', name: 'capi-gateway', date: 'Nov 2021', tag: 'Cloud Infrastructure | Kotlin | Vertx'}
+- {category: 'personal', title: 'Unusual Party Sign', name: 'unusual', date: 'Oct 2021', tag: 'Light Design | WLED | ESP32'}
+- {category: 'commercial', title: 'A3 Videowall', name: 'videowall-A3', date: 'May 2017', tag: 'openFrameworks | Ionic'}
+- {category: 'personal', title: 'Super LED Tubes', name: 'VEEM', date: 'March 2017', tag: 'Light Design | openFrameworks | Arduino'}
+- {category: 'commercial', title: 'YPF Interactive Semi-truck', name: 'trailer', date: 'Sept 2014', tag: 'Interactive Installation | Mapping | AR | openFrameworks | Kinect'}
+- {category: 'personal', title: 'Autocalibration System', name: 'autocalibration', date: 'Aug 2014', tag: 'Mapping | openFrameworks | Arduino'}
+- {category: 'commercial', title: 'Museo Malvinas', name: 'malvinas', date: 'June 2014', tag: 'Interactive Installation | openFrameworks'}
+- {category: 'commercial', title: 'Personal Art Drums', name: 'art-drums', date: 'May 2014', tag: 'Interactive Installation | Generative | openFrameworks'}
+- {category: 'commercial', title: 'Mecon Tecnópolis 2013', name: 'tecno-2013', date: 'July 2013', tag: 'Interactive Installation | Mapping | openFrameworks | Kinect'}
+- {category: 'commercial', title: 'Kinder World', name: 'kinder', date: 'July 2013', tag: 'Interactive Installation | AR | openFrameworks | Kinect'}
+- {category: 'commercial', title: 'Augmented Professionals', name: 'min-social', date: 'Oct 2012', tag: 'AR | openFrameworks'}
+- {category: 'commercial', title: 'Tecnópolis Digital Orchestra', name: 'orquesta-digital', date: 'July 2012', tag: 'Interactive Installation | Processing | MaxMSP'}
+- {category: 'personal', title: 'CETC Live Kinect Visuals', name: 'fuga', date: 'May 2012', tag: 'Visual Art | openFrameworks | Kinect'}
+- {category: 'personal', title: 'Interactive Phrases', name: 'lengua', date: 'Sept 2011', tag: 'Interactive Installation | Processing'}
 
 #-------------------------------
 # Contact Section

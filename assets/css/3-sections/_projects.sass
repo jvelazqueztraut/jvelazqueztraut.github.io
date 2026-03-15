@@ -1,9 +1,36 @@
+.project-filter
+  max-width: 750px
+  margin: 0px 60px
+  padding: 30px 0 10px
+  text-align: center
+  border-bottom: 1px solid rgba(0,0,0,0.1)
+  .filter-btn
+    display: inline-block
+    padding: 10px 25px
+    margin: 0 0px
+    background: transparent
+    border: none
+    color: rgba(0,0,0,0.4)
+    font:
+      size: 12px
+      weight: 400
+    cursor: pointer
+    transition: all 0.3s ease
+    outline: none
+    position: relative
+    &:hover
+      color: rgba(0,0,0,0.6)
+    &.active
+      color: rgba(0,0,0,1)
+      font-weight: 700
+
 .thumb-container
   max-width: 750px
-  padding-top: 30px
+  padding-top: 20px
   margin: 0px auto 0px
   +clearfix
   .thumb-unit
+    transition: opacity 0.3s ease, visibility 0.3s ease
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
     cursor: pointer
     display: block
@@ -58,6 +85,13 @@
       +position(absolute, 0px 0px null 0px)
 
 @media (max-width: 768px)
+  .project-filter
+    padding: 30px 0 0px
+    .filter-btn
+      padding: 8px 10px
+      margin: 0 5px
+      font:
+        size: 10px
   .thumb-container
     max-width: 80vw
     .thumb-unit
