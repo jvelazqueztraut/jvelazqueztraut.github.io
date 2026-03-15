@@ -4,7 +4,7 @@ title: 'Portfolio AI Agent'
 date: 'Dec 2025'
 tag: 'Web Development | ThreeJS | AI Agents'
 ---
-### 🚀 <a href="https://jvt-portfolio-agent.vercel.app/" target="_blank">Try the live experience → jvt-portfolio-agent.vercel.app</a>
+### 🚀 [Try the live experience → jvt-portfolio-agent.vercel.app](https://jvt-portfolio-agent.vercel.app/){:target="_blank" rel="noopener"}
 
 An immersive, AI-powered web experience where a virtual character acts as an intelligent guide through my portfolio — blending real-time 3D, generative AI, and interactive storytelling into a single seamless journey.
 
@@ -24,6 +24,6 @@ Key features include:
 
 I designed and built the full stack — from the AI agent architecture and backend API to the 3D frontend and interaction design.
 
-Credits to <a href="https://poly.pizza/m/0oBRDJ9Zl9" target="_blank">J-Toastie</a> for the astronaut model (<a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a>).
+Credits to [J-Toastie](https://poly.pizza/m/0oBRDJ9Zl9){:target="_blank" rel="noopener"} for the astronaut model ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/){:target="_blank" rel="noopener"}).
 
-See more [here](https://github.com/jvelazqueztraut/portfolio-agent).
+See more [here](https://github.com/jvelazqueztraut/portfolio-agent){:target="_blank" rel="noopener"}.

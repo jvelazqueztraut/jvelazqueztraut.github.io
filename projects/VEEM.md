@@ -4,7 +4,7 @@ title: 'VEEM LED Tubes'
 date: 'March 2017'
 tag: 'Light Design | openFrameworks | Arduino'
 ---
-Light Design for a music video for [VEEM (Victoria en el Mar)](http://www.victoriaenelmar.com/) co-developed with [Agustín Ramos Anzorena](http://www.pleek.net/).
+Light Design for a music video for [VEEM (Victoria en el Mar)](http://www.victoriaenelmar.com/){:target="_blank" rel="noopener"} co-developed with [Agustín Ramos Anzorena](http://www.pleek.net/){:target="_blank" rel="noopener"}.
 
 <iframe width="100%" height="330" src="https://www.youtube.com/embed/fvKzBEd7Ano" frameborder="0" allowfullscreen></iframe>
 

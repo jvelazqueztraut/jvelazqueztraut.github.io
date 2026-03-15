@@ -5,7 +5,7 @@ date: 'Jul 2024'
 tag: 'Light Design | ESP32 | Art Installation'
 ---
 
-Light design and interactive installation created in collaboration with artist [Solana Tixi](https://www.instagram.com/solanatixi/) for her exhibition "Que Me Vean Haciendo". Together, we transformed a simple gallery room into a surreal landscape that would keep visitors warm during the winter months of the exhibition.
+Light design and interactive installation created in collaboration with artist [Solana Tixi](https://www.instagram.com/solanatixi/){:target="_blank" rel="noopener"} for her exhibition "Que Me Vean Haciendo". Together, we transformed a simple gallery room into a surreal landscape that would keep visitors warm during the winter months of the exhibition.
 
 ![Que Me Vean Haciendo]({{ site.url }}/projects/quimera/quimera0.jpg)
 

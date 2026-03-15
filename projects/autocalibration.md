@@ -8,4 +8,4 @@ Developed an autocalibration system for projection mapping. Check it out:
 
 <iframe width="100%" height="330" src="https://www.youtube.com/embed/erLqADLnfCs" frameborder="0" allowfullscreen></iframe>
 
-Project co-developed with Kevin Kripper for [+OTROS](http://masotros.com/).
+Project co-developed with Kevin Kripper for [+OTROS](http://masotros.com/){:target="_blank" rel="noopener"}.

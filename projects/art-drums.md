@@ -17,4 +17,4 @@ It was installed in Personal Fest 2014. Many of the resulting artworks were prin
 
 <iframe width="100%" height="330" src="https://www.youtube.com/embed/2iftiy8X1Lc" frameborder="0" allowfullscreen></iframe>
 
-Project by [+OTROS](http://masotros.com/).
+Project by [+OTROS](http://masotros.com/){:target="_blank" rel="noopener"}.

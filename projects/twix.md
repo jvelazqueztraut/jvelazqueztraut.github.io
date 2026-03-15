@@ -11,7 +11,7 @@ Interactive web experience created for Twix's Super Bowl campaign, transforming 
 
 We developed a mobile-first interactive experience that leveraged computer vision to track user engagement:
 
-- **Eye-Tracking Technology**: Using [Mediapipe](https://github.com/google-ai-edge/mediapipe), we created a precise eye-tracking system that monitored users' attention on the golden Twix bars.
+- **Eye-Tracking Technology**: Using [Mediapipe](https://github.com/google-ai-edge/mediapipe){:target="_blank" rel="noopener"}, we created a precise eye-tracking system that monitored users' attention on the golden Twix bars.
 - **Real-Time Feedback**: Users received immediate visual feedback on their staring progress.
 - **Super Bowl Sync**: Using a custom developed backend we managed to make the experience be in sync with the game's commercial breaks, maximizing engagement.
 
@@ -27,9 +27,9 @@ The project the following awards:
 - D&AD Graphite Pencil / Digital Marketing / Mobile
 - D&AD Wood Pencil / Digital Marketing / User Participation
 
-I acted as **Tech Lead** for this project at [Unit9](https://www.unit9.com), where I was responsible for:
+I acted as **Tech Lead** for this project at [Unit9](https://www.unit9.com){:target="_blank" rel="noopener"}, where I was responsible for:
 - Leading the technical team and collaborating closely with creative and production teams.
 - Architecting the solution to deliver seamless performance across devices.
 - Overseeing development and ensuring the project met the campaign's high-quality standards.
 
-See more [here](https://www.unit9.com/project/twix-second-screen-staredown/). 
+See more [here](https://www.unit9.com/project/twix-second-screen-staredown/){:target="_blank" rel="noopener"}.

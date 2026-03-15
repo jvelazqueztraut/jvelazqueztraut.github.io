@@ -4,7 +4,7 @@ title: 'YMIYP VR'
 date: 'Apr 2023'
 tag: 'VR | Experiment | Unity'
 ---
-Virtual Reality experience designed and developed for the exhibition *Your Mind is Your Playground* based on the video/performance by [Juana Isola](https://www.instagram.com/juanaisola/).
+Virtual Reality experience designed and developed for the exhibition *Your Mind is Your Playground* based on the video/performance by [Juana Isola](https://www.instagram.com/juanaisola/){:target="_blank" rel="noopener"}.
 
 This 5-minute surreal experience explores the idea of letting your mind wander when you are doing daily tasks such as cooking or cleaning. The experience features hand interaction and room size movement.
 

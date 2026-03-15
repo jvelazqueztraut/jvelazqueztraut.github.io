@@ -10,7 +10,7 @@ Core development contributor to **CAPI Gateway**, a cloud-based solution for sen
 ![CAPI Gateway Architecture]({{ site.url }}/projects/capi-gateway/CAPI-gateway-architecture.png)
 
 ### Features:
-- **High-Performance Architecture**: Built using [Vert.x](https://vertx.io/), enabling low-latency, high-throughput event processing.
+- **High-Performance Architecture**: Built using [Vert.x](https://vertx.io/){:target="_blank" rel="noopener"}, enabling low-latency, high-throughput event processing.
 - **Cloud Native Deployment**: Runs on AWS, with a streamlined **one-click deployment process** and robust scalability.
 - **User-Friendly Maintenance**: Includes a web-based interface for configuration and monitoring, ensuring seamless usability for non-technical users.
 - **Enterprise-Grade Reliability**: Designed to support mission-critical advertising operations for Meta's extensive client base.
@@ -22,4 +22,4 @@ As part of the **core development team**, I was responsible for:
 - Collaborating on system architecture to ensure reliability and scalability for millions of events per second.
 - Took ownership of the observability workstream for the first year of product development.
 
-More product details [here](https://www.facebook.com/business/help/387152639648383) and technical details [here](https://developers.facebook.com/docs/marketing-api/conversions-api/guides/gateway/).
+More product details [here](https://www.facebook.com/business/help/387152639648383){:target="_blank" rel="noopener"} and technical details [here](https://developers.facebook.com/docs/marketing-api/conversions-api/guides/gateway/){:target="_blank" rel="noopener"}.

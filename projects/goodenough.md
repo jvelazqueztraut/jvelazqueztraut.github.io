@@ -4,11 +4,11 @@ title: 'GERDA Live Set'
 date: 'Sep 2022'
 tag: 'Light Design | WLED | TouchDesigner'
 ---
-Stage light design and visual show for [Guido Sirna aka GERDA](https://www.instagram.com/gerdamusic/)'s live set in Goodenough College London.
+Stage light design and visual show for [Guido Sirna aka GERDA](https://www.instagram.com/gerdamusic/){:target="_blank" rel="noopener"}'s live set in Goodenough College London.
 
 <iframe width="100%" height="330" src="https://www.youtube.com/embed/2V767Lr76cc" frameborder="0" allowfullscreen></iframe>
 
-Scratch build of a set of 18 LED tubes to create stage visuals that danced to the music creating a multi-sensory experience and captivating atmosphere. The controllers are [QuinLED-Dig-Quad](https://quinled.info/quinled-dig-quad/) running [WLED](https://kno.wled.ge/). I created generative visuals for the tubes using [TouchDesigner](https://derivative.ca/) that get sent using [Protopixel](https://www.protopixel.io/) via Artnet DMX. Many, many tubes and many, many nodes:
+Scratch build of a set of 18 LED tubes to create stage visuals that danced to the music creating a multi-sensory experience and captivating atmosphere. The controllers are [QuinLED-Dig-Quad](https://quinled.info/quinled-dig-quad/){:target="_blank" rel="noopener"} running [WLED](https://kno.wled.ge/){:target="_blank" rel="noopener"}. I created generative visuals for the tubes using [TouchDesigner](https://derivative.ca/){:target="_blank" rel="noopener"} that get sent using [Protopixel](https://www.protopixel.io/){:target="_blank" rel="noopener"} via Artnet DMX. Many, many tubes and many, many nodes:
 
 {% include horizontal-carousel.html images=site.data.goodenough.images alt="GERDA Live Set" %}
 

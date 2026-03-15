@@ -36,8 +36,8 @@ Here are some visuals of the website on desktop:
 
 ![BOTB Website Design]({{ site.url }}/projects/botb/botb-desktop2.gif)
 
-I acted as **Tech Lead** for this project at [Unit9](https://www.unit9.com), overseeing:
+I acted as **Tech Lead** for this project at [Unit9](https://www.unit9.com){:target="_blank" rel="noopener"}, overseeing:
 - Discovery prototyping and technical solution architecture.
 - Leading the development team and ensuring seamless collaboration between technical, creative, and production teams.
 
-See more [here](https://www.unit9.com/project/battle-baddest-ar-microsite/).
+See more [here](https://www.unit9.com/project/battle-baddest-ar-microsite/){:target="_blank" rel="noopener"}.

@@ -22,4 +22,4 @@ I acted as **Tech Lead** for this project, collaborating closely with creative a
 - Architect and manage the development.
 - Coordinating all tech related topics internally and externally.
 
-See more [here](https://www.unit9.com/project/dove-pinterest-real-beauty-dna).
+See more [here](https://www.unit9.com/project/dove-pinterest-real-beauty-dna){:target="_blank" rel="noopener"}.

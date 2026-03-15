@@ -4,7 +4,7 @@ title: 'YPF Interactive Semi-truck'
 date: 'Sept 2014'
 tag: 'Interactive Installation | Mapping | AR | openFrameworks | Kinect'
 ---
-I took part of the design and development of an interactive semi-truck for [Fundación YPF](http://www.fundacionypf.org/). This truck informs about the story of energy and the new forms of renewable energy!
+I took part of the design and development of an interactive semi-truck for [Fundación YPF](http://www.fundacionypf.org/){:target="_blank" rel="noopener"}. This truck informs about the story of energy and the new forms of renewable energy!
 
 ![Fundación YPF Semi-truck]({{ site.url }}/projects/trailer/YPF Trailer.gif)
 
@@ -19,4 +19,4 @@ In the second part of the truck you will find two sculptures projected and mappe
 All of this lives inside a semi-truck that travels around Argentina all year long!
 ![Fundación YPF Semi-truck]({{ site.url }}/projects/trailer/Trailer-6.jpg)
 
-Project by [+OTROS](http://masotros.com/).
+Project by [+OTROS](http://masotros.com/){:target="_blank" rel="noopener"}.

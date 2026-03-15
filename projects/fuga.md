@@ -4,7 +4,7 @@ title: 'Live Kinect Visuals'
 date: 'May 2012'
 tag: 'Visual Art | openFrameworks | Kinect'
 ---
-Real-time visuals for 'EL ARTE DE LA FUGA' (Johann Sebastian Bach) played in the CETC from Teatro Colón in Buenos Aires. This was my first project using the Kinect and [openFrameworks](http://openframeworks.cc/)!
+Real-time visuals for 'EL ARTE DE LA FUGA' (Johann Sebastian Bach) played in the CETC from Teatro Colón in Buenos Aires. This was my first project using the Kinect and [openFrameworks](http://openframeworks.cc/){:target="_blank" rel="noopener"}!
 
 ![El arte de la fuga]({{ site.url }}/projects/fuga/CETC Arte de la fuga 1.gif)
 

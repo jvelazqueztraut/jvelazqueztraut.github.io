@@ -17,9 +17,9 @@ Key features included:
 
 ![Beefeater Web AR]({{ site.url }}/projects/beefeater/beefeater.gif)
 
-I acted as **Tech Lead** for this project at [Unit9](https://www.unit9.com), where I was responsible for:
+I acted as **Tech Lead** for this project at [Unit9](https://www.unit9.com){:target="_blank" rel="noopener"}, where I was responsible for:
 - Leading the technical team and collaborating closely with creative and production teams.
 - Architecting the solution to deliver seamless performance across devices.
 - Overseeing development and ensuring the project met the campaign's high-quality standards.
 
-See more [here](https://www.unit9.com/project/beefeater-ar-experience).
+See more [here](https://www.unit9.com/project/beefeater-ar-experience){:target="_blank" rel="noopener"}.
