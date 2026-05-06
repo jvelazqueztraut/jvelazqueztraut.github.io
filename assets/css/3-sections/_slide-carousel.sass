@@ -1,16 +1,25 @@
-.carousel-item 
-  height: 500px // Fixed height for the carousel
-  display: none // Hide all carousel items by default
-  align-items: center
-  justify-content: center
-  &.carousel-item-next,
-  &.active
-    display: flex // Only display the active carousel item
-  img
-    max-height: 100%
-    max-width: 100%
-    object-fit: contain
+.slide-carousel
+  .carousel-item
+    display: none // Hide all carousel items by default
+    &.carousel-item-next,
+    &.carousel-item-prev,
+    &.active
+      display: block // Display visible carousel items for transitions
+    img
+      display: block
+      width: 100%
+      height: auto
+      max-width: 100%
 
-.carousel-control-next,
-.carousel-control-prev
-  filter: invert(1)
+  .carousel-control-next,
+  .carousel-control-prev
+    background: transparent
+    border: 0
+    box-shadow: none
+    outline: none
+    padding: 0
+    filter: invert(1)
+
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon
+    filter: drop-shadow(0 0 4px rgba(255, 255, 255, 0.75))

@@ -1,4 +1,4 @@
-<div id="{{ include.id }}" class="carousel slide" data-ride="carousel">
+<div id="{{ include.id }}" class="carousel slide slide-carousel" data-ride="carousel">
   <div class="carousel-inner">
     {% for image in include.images %}
       <div class="carousel-item {% if forloop.first %}active{% endif %}">
@@ -6,12 +6,12 @@
       </div>
     {% endfor %}
   </div>
-  <a class="carousel-control-prev" href="#{{ include.id }}" role="button" data-slide="prev">
+  <button class="carousel-control-prev" type="button" data-target="#{{ include.id }}" data-slide="prev" aria-label="Previous slide">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#{{ include.id }}" role="button" data-slide="next">
+  </button>
+  <button class="carousel-control-next" type="button" data-target="#{{ include.id }}" data-slide="next" aria-label="Next slide">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
-  </a>
+  </button>
 </div>
