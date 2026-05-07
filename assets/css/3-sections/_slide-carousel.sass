@@ -1,15 +1,26 @@
+// Same max height as .post-container img (400px). Avoid full-width (w-100) on slides
+// or portrait photos get squashed; width: auto + object-fit: contain keeps ratio.
 .slide-carousel
+  .carousel-inner
+    text-align: center
+
   .carousel-item
     display: none // Hide all carousel items by default
     &.carousel-item-next,
     &.carousel-item-prev,
     &.active
       display: block // Display visible carousel items for transitions
-    img
-      display: block
-      width: 100%
-      height: auto
-      max-width: 100%
+
+  img.slide-carousel__img,
+  .carousel-item img
+    display: block
+    width: auto
+    max-width: 100%
+    height: auto
+    max-height: 400px
+    margin-left: auto
+    margin-right: auto
+    object-fit: contain
 
   .carousel-control-next,
   .carousel-control-prev

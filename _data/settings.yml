@@ -36,6 +36,7 @@ google-analytics-ua: 'UA-104060517-1'
 # Work Section
 
 projects:
+- {category: 'commercial', title: 'Reddit Snoo AR', name: 'reddit-snoo-ar', date: 'May 2026', tag: 'Web Development | WebAR | AR'}
 - {category: 'commercial', title: 'Würth eQuip VR', name: 'wurth-equip-vr', date: 'May 2026', tag: 'VR | Unity | Meta Quest 3'}
 - {category: 'personal', title: 'Portfolio AI Agent', name: 'portfolio-agent', date: 'Dec 2025', tag: 'Web Development | ThreeJS | Pydantic AI'}
 - {category: 'personal', title: 'Laberinto', name: 'laberinto', date: 'Apr 2025', tag: 'Visual Art | Light Installation | Generative'}

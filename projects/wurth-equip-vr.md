@@ -17,4 +17,4 @@ The narrative resolves from stress and overload into a calm, efficient environme
 The video below shows the experience being presented at the Würth NASCAR 400 event:
 <iframe width="100%" height="330" src="https://www.youtube.com/embed/HR5_mkvEq_s" frameborder="0" allowfullscreen></iframe>
 
-I collaborated on **all creative development** and carried out **full Unity implementation** for **Meta Quest 3**, ensuring the experience delivered both narrative clarity and technical reliability in event-driven demo conditions. Built with the [Superside](https://www.superside.com){:target="_blank" rel="noopener"} team for [Würth USA](https://www.wurthusa.com/){:target="_blank" rel="noopener"}.
+I collaborated on **all creative development** and carried out **full Unity implementation** for **Meta Quest 3**, ensuring the experience delivered both narrative clarity and technical reliability in event-driven demo conditions. Built together with the [Superside](https://www.superside.com){:target="_blank" rel="noopener"} team for [Würth USA](https://www.wurthusa.com/){:target="_blank" rel="noopener"}.
