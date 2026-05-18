@@ -11,6 +11,8 @@ Web app built for Reddit that lets people customise their **Snoo** with an intui
 
 The experience is designed to feel easy and fast on a wide range of devices, so Reddit can reach more people with a polished, performant site. The AR moment is meant to feel playful and shareable—turning a customised character into something people can show off in the real world.
 
+![Reddit Snoo AR]({{ site.url }}/projects/reddit-snoo-ar/ar.gif)
+
 - **Deep customisation**: Mix and match appearance options or jump to complete looks.
 - **Dance + AR**: Preview moves in AR and capture video or stills for sharing.
 - **Social amplification**: Built around recording and sharing to extend the campaign beyond the browser.
